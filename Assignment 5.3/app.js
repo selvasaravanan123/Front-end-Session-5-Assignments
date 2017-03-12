@@ -1,10 +1,10 @@
 
 var employee = { 
-	name: "SanthoshKumar P", age: 21, salary: 75000, 
+	name: "Selvasaravanan", age: 24, salary: 175000, 
 	address: { 
-		city: "Coimbatore", 
+		city: "Cuddalore", 
 		state: "TamilNadu", 
-		pin: 641004 },
+		pin: 607108},
 	}
 
 console.log("Name : "+ employee['name'] + ", Age : "+ employee['age'] +", Salary : " + employee['salary'] );
